@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VirtualLego", "VirtualLego.vcxproj", "{D0D3F88A-CF76-4FB8-8781-4CE6E9121B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D3F88A-CF76-4FB8-8781-4CE6E9121B30}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0D3F88A-CF76-4FB8-8781-4CE6E9121B30}.Debug|x86.Build.0 = Debug|Win32
+		{D0D3F88A-CF76-4FB8-8781-4CE6E9121B30}.Release|x86.ActiveCfg = Release|Win32
+		{D0D3F88A-CF76-4FB8-8781-4CE6E9121B30}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB89A87-BEA8-4DA9-BC6C-6E5FDEF738C8}
+	EndGlobalSection
+EndGlobal

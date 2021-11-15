@@ -1,0 +1,16 @@
+﻿  d3dUtility.cpp
+C:\Users\asd00\Desktop\중앙대학교\20200707_임경빈_proj3\oop16_proj3\d3dUtility.h(23,1): warning C4005: 'INFINITY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : 'INFINITY'의 이전 정의를 참조하십시오.
+  virtualLego.cpp
+C:\Users\asd00\Desktop\중앙대학교\20200707_임경빈_proj3\oop16_proj3\d3dUtility.h(23,1): warning C4005: 'INFINITY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : 'INFINITY'의 이전 정의를 참조하십시오.
+C:\Users\asd00\Desktop\중앙대학교\20200707_임경빈_proj3\oop16_proj3\virtualLego.cpp(114,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\asd00\Desktop\중앙대학교\20200707_임경빈_proj3\oop16_proj3\virtualLego.cpp(135,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\asd00\Desktop\중앙대학교\20200707_임경빈_proj3\oop16_proj3\virtualLego.cpp(136,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\asd00\Desktop\중앙대학교\20200707_임경빈_proj3\oop16_proj3\virtualLego.cpp(254,33): warning C4305: 'return': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\asd00\Desktop\중앙대학교\20200707_임경빈_proj3\oop16_proj3\virtualLego.cpp(633,18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\asd00\Desktop\중앙대학교\20200707_임경빈_proj3\oop16_proj3\virtualLego.cpp(640,34): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\asd00\Desktop\중앙대학교\20200707_임경빈_proj3\oop16_proj3\virtualLego.cpp(642,35): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\asd00\Desktop\중앙대학교\20200707_임경빈_proj3\oop16_proj3\virtualLego.cpp(645,98): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  VirtualLego.vcxproj -> C:\Users\asd00\Desktop\중앙대학교\20200707_임경빈_proj3\oop16_proj3\Release\VirtualLego.exe
